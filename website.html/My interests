@@ -37,43 +37,27 @@
 
     <!-- Here is our page's main content -->
     <main>
-      <!-- It contains an annotated bibliography -->
+      <!-- It contains my interests -->
       <article>
-        <h2>Annotated bibliography</h2>
+        <h2>My interests</h2>
 
         <p>
-          My name is Josh Mushinski. 
-          I am originally from Livonia, Michigan where I went to Churchill High School. 
-          I now live over on the west side of the state in the Grand Rapids area. 
-          This is my senior year of college and afterwards I plan on going to graduate school to become a psychometrician. 
+          My favorite video game is Borderlands two. The gameplay is really fun and the game itself has a ton of replayability.
+          If you are a fan of role playing games, then you might like this game. There is a large variety of loot to collect.
+          Also, there are six different playable characters each with their own unique skill trees and special abilities.
+          This game is fun to play with friends or alone. While the story is pretty simply, the main villain of the game is very memorable. 
         </p>
 
-        <h3>My interests</h3>
-
-        <p>
-          Video games are one of my interests.
-          I have been playing video games all of my life. 
-          I love playing video games of any genres.
-          For me, video games are a great way to relieve stress and also to hang out with friends.
-          My favorite genre of video games is single player open world games.
+        <p>I have watched a ton of movies over the years, but my favorite movie of all time is Casino Royale.
+            This is a James Bond movie and it is actor Daniel Craig's first time playing the character James Bond. 
+            I am a huge James Bond fan and I have seen each movie at least two times.
+            What makes Casino Royale so special is that it is the first Bond film to really give the character an origin story.
+            Daniel Craig does a great job of conveying Bond's emotions and vuneralbility. 
+            In addition to the portrayal of the character, the action really stands out for me. 
+            This movie has the least amount of action of any Bond film, but the action it does have is very intense.
         </p>
 
-        <p>
-          Another one of my interests is watchign movies. 
-          Sometimes I will watch one or two new movies a week. 
-          I love movies because they can make you feel a wide range of emotion and they can expand my imagination.
-        </p>
-
-        <h3>My pets</h3>
-
-        <p>
-          Pets have always been a big part of my life. 
-          Growing up I had dogs, cats, fish, and bunnies.
-          Pets are great because the bonds you form with them is invaluable and their ability to make you happy when you are feeling down is incredible.
-          Currently, I own two dogs and a cat.
-        </p>
-
-      </Annotated bibliography>
+    </My interests>
 
       <!-- the aside content can also be nested within the main content -->
       <aside>
