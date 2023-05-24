@@ -37,7 +37,7 @@
     <!-- Here is our page's main content -->
     <main>
         <!-- It contains my pets -->
-        <article>
+        <My pets>
             <h2>My pets</h2>
 
             <p> My one dog is Daisy and she is a maltese and yorkie mix. She is five years old and is not the brightest

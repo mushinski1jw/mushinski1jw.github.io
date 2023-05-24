@@ -37,7 +37,7 @@
     <!-- Here is our page's main content -->
     <main>
         <!-- It contains accessibility -->
-        <article>
+        <Accessibility>
             <h2>Accessibility</h2>
 
             <p>
